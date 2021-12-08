@@ -1,0 +1,22 @@
+{
+  "name": "photo-converter",
+  "version": "1.0.0",
+  "description": "photo converter jpeg to png",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcboaventura/photo-converter.git"
+  },
+  "author": "Guilherme de Carvalho Boaventura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gcboaventura/photo-converter/issues"
+  },
+  "homepage": "https://github.com/gcboaventura/photo-converter#readme",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
